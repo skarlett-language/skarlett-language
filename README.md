@@ -5,5 +5,5 @@
 
 *   🖥️  [Skarlett Official Website](http://skarlett-language.github.io/)
 *   ✉️  Contact the developer at [systemcpy@gmail.com](mailto:systemcpy@gmail.com)
-*   📄  Documentation available at [website](http://skarlett-language.github.io/) and in [markdown]()
+*   📄  Documentation available at [website](http://skarlett-language.github.io/) and in [markdown](https://github.com/skarlett-language/SkarlettDocumentation#readme)
 *   🆘  Report bugs to [developer email](mailto:systemcpy@gmail.com)
