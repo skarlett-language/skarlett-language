@@ -4,8 +4,8 @@
 ### Logic computation centered, procedural, interpreted programming language
 
 *   🖥️  [Skarlett Official Website](http://skarlett-language.github.io/)
-*   📥  Download interpreter and Skarlett Native Editor at [website](https://skarlett-language.github.io) or by [command line](https://github.com/skarlett-language/SkarlettDownload)
-*   ✉️  Contact the developer at [systemcpy@gmail.com](mailto:systemcpy@gmail.com)
+*   📥  Download interpreter and Skarlett Native Editor at [website](https://skarlett-language.github.io), at GitHub [downloads repo](https://github.com/skarlett-language/SkarlettDownload/releases/) or by [command line](https://github.com/skarlett-language/SkarlettDownload)
+*   ✉️  Contact the developer [@cpy-dev](https://github.com/cpy-dev) at [systemcpy@gmail.com](mailto:systemcpy@gmail.com) 
 *   📄  Documentation available at [website](http://skarlett-language.github.io/) and in [markdown](https://github.com/skarlett-language/SkarlettDocumentation#readme)
 *   🆘  Report bugs to [developer email](mailto:systemcpy@gmail.com)
 *   ➡️  Current version: 1.0.1
