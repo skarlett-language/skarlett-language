@@ -14,7 +14,7 @@
 ### Updates
   * 🆕 Version 1.1.0 - uncompiled 
     * Removed unnecessary packages
-    * Added `from` loops (see documentation)
+    * Added `from` loops (see documentation inside the package)
     * Updated editor
 
   * 🆕 Version 1.0.1
