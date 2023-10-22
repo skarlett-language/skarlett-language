@@ -1,8 +1,7 @@
 # Skarlett Programming Language
 
 
-### Logic computation centered, procedural, interpreted programming language
-
+### Easy to use, entry-level, interpreted, procedural programming language
 *   📥  Download interpreter at GitHub [downloads repo](https://github.com/skarlett-language/SkarlettDownload/releases/) or by [command line](https://github.com/skarlett-language/SkarlettDownload)
 *   ✉️  Contact the developer [@cpy-dev](https://github.com/cpy-dev) at [systemcpy@gmail.com](mailto:systemcpy@gmail.com) 
 *   📄  Documentation available in [markdown](https://github.com/skarlett-language/SkarlettDocumentation#readme)
