@@ -3,16 +3,22 @@
 
 ### Logic computation centered, procedural, interpreted programming language
 
-*   🖥️  [Skarlett Official Website](http://skarlett-language.github.io/)
-*   📥  Download interpreter and Skarlett Native Editor at [website](https://skarlett-language.github.io), at GitHub [downloads repo](https://github.com/skarlett-language/SkarlettDownload/releases/) or by [command line](https://github.com/skarlett-language/SkarlettDownload)
+*   📥  Download interpreter at GitHub [downloads repo](https://github.com/skarlett-language/SkarlettDownload/releases/) or by [command line](https://github.com/skarlett-language/SkarlettDownload)
 *   ✉️  Contact the developer [@cpy-dev](https://github.com/cpy-dev) at [systemcpy@gmail.com](mailto:systemcpy@gmail.com) 
-*   📄  Documentation available at [website](http://skarlett-language.github.io/) and in [markdown](https://github.com/skarlett-language/SkarlettDocumentation#readme)
+*   📄  Documentation available in [markdown](https://github.com/skarlett-language/SkarlettDocumentation#readme)
 *   🆘  Report bugs to [developer email](mailto:systemcpy@gmail.com)
-*   ➡️  Current version: 1.1.0 - uncompiled
+*   ➡️  Current version: v2.0.0
 
 
 ### Updates
-  * 🆕 Version 1.1.0 - uncompiled 
+  * 🆕 Version 2.0.0
+    * Parser optimized
+    * New loops implementation (from, for, do-until)
+    * New documentation
+    * Bug fixes using "inf" value
+
+  
+ * 🆕 Version 1.1.0 - uncompiled 
     * Removed unnecessary packages
     * Added `from` loops (see documentation inside the package)
     * Updated editor
