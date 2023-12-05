@@ -6,10 +6,13 @@
 *   ✉️  Contact the developer [@cpy-dev](https://github.com/cpy-dev) at [systemcpy@gmail.com](mailto:systemcpy@gmail.com) 
 *   📄  Documentation available in [markdown](https://github.com/skarlett-language/SkarlettDocumentation#readme)
 *   🆘  Report bugs to [developer email](mailto:systemcpy@gmail.com)
-*   ➡️  Current version: v2.0.0
+*   ➡️  Current version: v2.0.1
 
 
 ### Updates
+  * 🆕 Version 2.0.1 - uncompiled
+    * Various bug fixes 
+
   * 🆕 Version 2.0.0
     * Parser optimized
     * New loops implementation (from, for, do-until)
