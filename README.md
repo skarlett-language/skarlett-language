@@ -6,10 +6,14 @@
 *   ✉️  Contact the developer [@ryzeon-dev](https://github.com/ryzeon-dev)
 *   📄  Documentation available in [markdown](https://github.com/skarlett-language/SkarlettDocumentation#readme)
 *   🆘  Report bugs to [developer email](mailto:systemcpy@gmail.com)
-*   ➡️  Current version: v2.0.1
+*   ➡️  Current version: v2.1.0
 
 
 ### Updates
+  * 🆕 Version 2.1.0 - uncompiled
+    * Bug fixes
+    * Implementation of bitwise logic gates for binary numbers
+
   * 🆕 Version 2.0.1 - uncompiled
     * Various bug fixes 
 
