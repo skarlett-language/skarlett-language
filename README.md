@@ -5,7 +5,7 @@
 *   📥  Download interpreter at GitHub [downloads repo](https://github.com/skarlett-language/SkarlettDownload/releases/) or by [command line](https://github.com/skarlett-language/SkarlettDownload)
 *   🌐  Official [website](https://skarlett-language.github.io)
 *   ✉️  Contact the developer [@ryzeon-dev](https://github.com/ryzeon-dev)
-*   📄  Documentation available in [markdown](https://github.com/skarlett-language/SkarlettDocumentation#readme)
+*   📄  Documentation available in [markdown](https://github.com/skarlett-language/SkarlettDocumentation#readme) on in the [website](https://skarlett-language.github.io/)
 *   🆘  Report bugs to [developer email](mailto:systemcpy@gmail.com)
 *   ➡️  Current version: v2.1.0
 
