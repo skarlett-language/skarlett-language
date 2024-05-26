@@ -6,7 +6,7 @@
 *   🌐  Official [website](https://skarlett-language.github.io)
 *   ✉️  Contact the developer [@ryzeon-dev](https://github.com/ryzeon-dev)
 *   📄  Documentation available in [markdown](https://github.com/skarlett-language/SkarlettDocumentation#readme) on in the [website](https://skarlett-language.github.io/)
-*   🆘  Report bugs to [developer email](mailto:systemcpy@gmail.com)
+*   🆘  Report bugs to [developer email](mailto:ryzeon58@protonmail.com)
 *   ➡️  Current version: v2.1.0
 
 
