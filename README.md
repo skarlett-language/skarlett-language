@@ -5,12 +5,18 @@
 *   📥  Download interpreter at GitHub [downloads repo](https://github.com/skarlett-language/SkarlettDownload/releases/) or by [command line](https://github.com/skarlett-language/SkarlettDownload)
 *   🌐  Official [website](https://skarlett-language.github.io)
 *   ✉️  Contact the developer [@ryzeon-dev](https://github.com/ryzeon-dev)
-*   📄  Documentation available in [markdown](https://github.com/skarlett-language/SkarlettDocumentation#readme) on in the [website](https://skarlett-language.github.io/)
+*   📄  Documentation available in [markdown](https://github.com/skarlett-language/SkarlettDocumentation#readme)
 *   🆘  Report bugs to [developer email](mailto:ryzeon58@protonmail.com)
-*   ➡️  Current version: v2.1.0
+*   ➡️  Current version: v2.2.0
 
 
 ### Updates
+  * 🆕 Version 2.2.0
+    * new importation method
+    * bug fixes
+    * better negative handling for binary and hexa numbers
+
+
   * 🆕 Version 2.1.0 - uncompiled
     * Bug fixes
     * Implementation of bitwise logic gates for binary numbers
